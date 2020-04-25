@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Context: Rendering renders with user 1`] = `ReactWrapper {}`;
+
+exports[`Context: Rendering renders without crashing 1`] = `ReactWrapper {}`;
